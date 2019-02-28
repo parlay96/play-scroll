@@ -1,0 +1,47 @@
+{
+  "_args": [
+    [
+      "playscroll@1.0.6",
+      "E:\\workingFile\\newProject\\erp-shop"
+    ]
+  ],
+  "_from": "playscroll@^1.0.7",
+  "_id": "playscroll@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha512-Ui1HWT1SWCm5aAR0qwp5TEjPoVqu5iXuHd9uyR4zO5pVQPKfDmuLd2d5xnKTVjnbh3LJlfDQSWdMXiitBcHRgg==",
+  "_location": "/playscroll",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "playscroll@^1.0.7",
+    "name": "playscroll",
+    "escapedName": "playscroll",
+    "rawSpec": "^1.0.7",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.7"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/playscroll/-/playscroll-1.0.7.tgz",
+  "_shasum": "30714fc3314021386b382db460648308ad24967d",
+  "_spec": "playscroll@^1.0.7",
+  "_where": "E:\\workingFile\\newProject\\erp-shop",
+  "author": {
+    "name": "raypeng"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A sliding plug",
+  "keywords": [
+    "playscroll"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "playscroll",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.7"
+}
